@@ -1,0 +1,4 @@
+com\currencyconverter\CurrencyConverterTestSuite.class
+com\currencyconverter\service\CurrencyConverterNegativeAmountTest.class
+com\currencyconverter\service\CurrencyConverterNullInputsTest.class
+com\currencyconverter\service\CurrencyConverterValidConversionTest.class
